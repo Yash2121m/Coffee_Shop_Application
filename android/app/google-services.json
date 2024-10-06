@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860139097178",
+    "project_id": "minisem5",
+    "storage_bucket": "minisem5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860139097178:android:7494c2812e20f69cbe5c63",
+        "android_client_info": {
+          "package_name": "com.example.mini_sem5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkvr-tHR0NiI1iXum_ObY8FLV6wHs4chU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
