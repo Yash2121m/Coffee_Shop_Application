@@ -8,6 +8,7 @@ Your coffee shop app offers a smooth and delightful experience for users to brow
 - Users can log into their accounts by entering their **email and password**.
 - There’s an option for **password reset** in case they forget it.  
 _(Don't have an account? Switch to sign-up!)_
+<img src="https://github.com/user-attachments/assets/77166e3c-3097-461e-a4b9-a682401f060c" alt="Coffee Shop App Menu" width="400"/>
 ![Screenshot_20241024-084325 1](https://github.com/user-attachments/assets/77166e3c-3097-461e-a4b9-a682401f060c)
 
 ---
