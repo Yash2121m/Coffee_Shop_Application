@@ -23,7 +23,7 @@ _Your personal dashboard to explore our beverages and snacks!_
 - **User’s Name Displayed**: Welcome back, **Yash Kalyan**! 😊
 - **Navigation Bar**: Use the hamburger menu (☰) to access different sections of the app.
 <img src="https://github.com/user-attachments/assets/172d3497-8c63-4770-a7f9-fe8fe534e647" alt="Coffee Shop App Menu" width="300"/>
-
+---
 
 #### 🛍️ Categories Available:  
 - **☕ Hot Coffee**  
@@ -31,15 +31,13 @@ _Your personal dashboard to explore our beverages and snacks!_
 - **🍵 Hot Teas**  
 - **🧁 Bakery**
 <img src="https://github.com/user-attachments/assets/668016be-d54a-44d0-84fb-41b507a46b7a" alt="Coffee Shop App Menu" width="300"/>
-
+---
 
 #### 🎉 Featured Products:  
 - Example: **Evolution Fresh Mighty**  
   - 💵 Price: ₹180.00  
   - **Smooth and creamy drink options for a fresh start!**
   <img src="https://github.com/user-attachments/assets/31da49d4-1530-49b9-94bb-8639f56e26ac" alt="Coffee Shop App Menu" width="300"/>
-
-
 ---
 
 ### 📱 **Navigation Drawer**  
@@ -48,11 +46,10 @@ _A quick and easy way to move through the app!_
 - **Profile 👤**: View and update your account details.
 - **Logout ➡️**: Sign out from the app.
 <img src="https://github.com/user-attachments/assets/8c167386-8a72-4c5f-8c0f-d40d30f3d047" alt="Coffee Shop App Menu" width="300"/>
-
+---
 
 Greeting message:  
 "**Hello, Yash** 👋 Welcome to our Coffee Shop!"
-
 ---
 
 ### 🍧 **Product Details Page**  
@@ -64,8 +61,6 @@ _Detailed information about each item for the perfect choice!_
   - ➖➕ **Quantity Selector**: Adjust the number of items you want.
   - 🛒 **Add to Cart**: Tap the button to add the product to your order.
   <img src="https://github.com/user-attachments/assets/c9876d38-088e-4c3a-88ef-a18dab444313" alt="Coffee Shop App Menu" width="300"/>
-
-
 ---
 
 ### 🛒 **Cart and Checkout**
@@ -83,7 +78,6 @@ _Detailed information about each item for the perfect choice!_
 3. 🍧 **View Product Details**  
 4. 🛒 **Add to Cart**  
 5. 💳 **Checkout**
-
 ---
 
 ### 🎯 **App Highlights**
@@ -91,7 +85,6 @@ _Detailed information about each item for the perfect choice!_
 - **Personalized greeting** and easy access to profile options.
 - Multiple categories of products to explore, including **coffee, drinks, teas, and bakery** items.
 - **Simple checkout process** for a hassle-free experience.
-
 ---
 
 This coffee shop app makes ordering your favorite beverages as easy as a few taps, with an intuitive and welcoming design to match! ☕
